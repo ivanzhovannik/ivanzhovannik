@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a data scientist currently focused on medical image analysis and data management in radiation oncology. Previously, I had been working as a data analysis engineer in the fields of analytical spectroscopy and non-ionizing radiation biophysics :robot: :man_health_worker:
+I am a machine learning scientist and engineer currently focused on various aspects of data and ML research: from rough PoC to production, from AB-tests and statistics to LLMs and CV. Previously, I had been working on medical image analysis and data management in radiation oncology and in the fields of analytical spectroscopy and non-ionizing radiation biophysics :robot: :man_health_worker:
 
 <!--
 **ivanzhovannik/ivanzhovannik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
